@@ -1,0 +1,20 @@
+{
+  "name": "Uttara Cricket Academy",
+  "tagline": "Developing disciplined, technically sound cricketers—one session at a time",
+  "location": "Uttara, Dhaka, Bangladesh",
+  "languages": ["English", "Bangla"],
+  "socialLinks": {
+    "facebook": "https://facebook.com/uttaracricketacademy",
+    "instagram": "https://instagram.com/uttaracricketacademy",
+    "youtube": "https://youtube.com/@uttaracricketacademy",
+    "linkedin": "https://linkedin.com/company/uttaracricketacademy"
+  },
+  "phone": "+880 1712-345678",
+  "email": "info@uttaracricketacademy.com",
+  "founder": {
+    "name": "Tareq Bin Delwar",
+    "alsoKnownAs": "Tareq Shaon",
+    "role": "Founder & Head Coach",
+    "background": "Former teacher at Milestone School & College (EMJS)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "testimonials": [
+    {
+      "quote": "SAWON Academy transformed my daughter's passion for sports into excellence. The coaching staff is world-class and the training programs are comprehensive.",
+      "author": "Dr. Anika Rahman",
+      "role": "Parent"
+    },
+    {
+      "quote": "I've been with SAWON for 4 years now. The personalized attention and expert coaching helped me achieve my goal of winning the national championship.",
+      "author": "Arif Hossain",
+      "role": "Student Athlete, Age 17"
+    },
+    {
+      "quote": "The holistic approach at SAWON is exceptional. They don't just train athletes, they develop champions with strong character and academic excellence.",
+      "author": "Mohammad Karim",
+      "role": "Parent"
+    },
+    {
+      "quote": "SAWON's facilities and coaching methods are world-class. My son's performance improved dramatically within just six months of joining.",
+      "author": "Fatima Ahmed",
+      "role": "Parent"
+    },
+    {
+      "quote": "The mental training component has been a game-changer for me. I feel more confident and focused both in training and competition.",
+      "author": "Sarah Khan",
+      "role": "Student Athlete, Age 15"
+    },
+    {
+      "quote": "SAWON Academy goes beyond training. They prepare you for life. The discipline and values I learned here extend far beyond the field.",
+      "author": "Rahman Ali",
+      "role": "Alumni, Current University Student"
+    }
+  ]
+}
+

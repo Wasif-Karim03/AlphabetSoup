@@ -1,0 +1,42 @@
+{
+  "copyright": "© 2025 Uttara Cricket Academy. All rights reserved.",
+  "socialLinks": [
+    {
+      "name": "Facebook",
+      "href": "https://facebook.com/uttaracricketacademy",
+      "icon": "facebook"
+    },
+    {
+      "name": "Instagram",
+      "href": "https://instagram.com/uttaracricketacademy",
+      "icon": "instagram"
+    },
+    {
+      "name": "YouTube",
+      "href": "https://youtube.com/@uttaracricketacademy",
+      "icon": "youtube"
+    }
+  ],
+  "quickLinks": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "About",
+      "href": "/about"
+    },
+    {
+      "text": "Programs",
+      "href": "/coaching"
+    },
+    {
+      "text": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "text": "Contact",
+      "href": "/contact"
+    }
+  ]
+}

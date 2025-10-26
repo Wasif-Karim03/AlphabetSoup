@@ -1,0 +1,15 @@
+{
+  "title": "Hi, I'm John Doe",
+  "subtitle": "Full Stack Developer",
+  "description": "I craft beautiful, responsive web experiences with modern technologies and best practices.",
+  "cta": {
+    "primary": {
+      "text": "View My Work",
+      "href": "/projects"
+    },
+    "secondary": {
+      "text": "Contact Me",
+      "href": "/contact"
+    }
+  }
+}

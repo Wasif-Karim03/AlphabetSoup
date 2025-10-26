@@ -1,0 +1,24 @@
+{
+  "address": [
+    "Uttara Cricket Academy (UCA)",
+    "Sector 11, Uttara",
+    "Dhaka, Bangladesh",
+    "Training: Sector 11 park and nearby grounds"
+  ],
+  "mapLink": "https://maps.google.com/?q=Sector+11+Uttara+Dhaka",
+  "phone": "+880 1712-345678",
+  "whatsapp": "+880 1712-345678",
+  "email": "info@uttaracricketacademy.com",
+  "availability": {
+    "status": "Open for admissions",
+    "timezone": "UTC+6 (BST)",
+    "responseTime": "Within 24 hours",
+    "note": "Available for trial sessions, open days, and regular enrollment. Contact us to schedule."
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/uttaracricketacademy",
+    "instagram": "https://instagram.com/uttaracricketacademy",
+    "youtube": "https://youtube.com/@uttaracricketacademy",
+    "whatsapp": "https://wa.me/8801712345678"
+  }
+}

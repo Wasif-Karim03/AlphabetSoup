@@ -1,0 +1,31 @@
+{
+  "roles": [
+    {
+      "title": "Founder & Head Coach",
+      "org": "Uttara Cricket Academy (UCA)",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "startDate": "2015",
+      "endDate": "Present",
+      "bullets": [
+        "Established a community-oriented academy serving junior through youth cricketers",
+        "Designed age-group curricula (U10, U12, U14, U16) with progressive skill targets",
+        "Runs regular practice blocks (4+ sessions/week during peak), seasonal camps, and mini-tournaments",
+        "Coordinates friendly matches and open trials; facilitates player showcases and highlight reels",
+        "Specialized in fielding drills, batting mechanics, bowling rhythm, match awareness, and fitness & nutrition basics"
+      ]
+    },
+    {
+      "title": "Teacher",
+      "org": "Milestone School & College (EMJS)",
+      "location": "Uttara, Dhaka, Bangladesh",
+      "startDate": "2010",
+      "endDate": "2015",
+      "bullets": [
+        "Classroom teaching and student mentorship",
+        "Supported extracurricular sports and fitness activities",
+        "Helped organize school cricket programs and tournaments",
+        "Developed teaching methodologies combining education with sports training"
+      ]
+    }
+  ]
+}

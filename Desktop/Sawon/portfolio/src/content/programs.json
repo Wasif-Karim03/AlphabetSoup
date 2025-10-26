@@ -1,0 +1,68 @@
+{
+  "programs": [
+    {
+      "id": "starter",
+      "name": "Starter Program",
+      "description": "Introduction to cricket fundamentals for young beginners (Ages 8-10)",
+      "duration": "Ongoing throughout the year",
+      "focus": "Movement patterns, catching & throwing, batting setup, fun games, basic coordination",
+      "deliverables": "Fundamental skills development, basic cricket knowledge, physical conditioning",
+      "price": "Contact for pricing",
+      "features": [
+        "Movement patterns and coordination",
+        "Catching & throwing techniques",
+        "Basic batting setup and stance",
+        "Fun cricket games and activities",
+        "Foundation of cricket rules"
+      ]
+    },
+    {
+      "id": "development",
+      "name": "Development Program",
+      "description": "Structured skill building for intermediate players (Ages 11-13)",
+      "duration": "Ongoing throughout the year",
+      "focus": "Bowling rhythm & accuracy, batting mechanics, fielding footwork, simple match plans",
+      "deliverables": "Advanced technique development, match awareness, tactical understanding",
+      "price": "Contact for pricing",
+      "features": [
+        "Bowling rhythm and accuracy training",
+        "Batting mechanics and stroke play",
+        "Fielding footwork and positioning",
+        "Basic match strategy and plans",
+        "Injury prevention basics"
+      ]
+    },
+    {
+      "id": "performance",
+      "name": "Performance Program",
+      "description": "Advanced training for competitive players (Ages 14-16)",
+      "duration": "Ongoing throughout the year",
+      "focus": "Power-hitting progressions, death bowling & yorkers, advanced fielding, fitness & conditioning",
+      "deliverables": "Elite technique mastery, competitive readiness, tournament preparation",
+      "price": "Contact for pricing",
+      "features": [
+        "Advanced batting and power-hitting",
+        "Death bowling and yorker practice",
+        "Elite fielding and catching techniques",
+        "Fitness and conditioning programs",
+        "Competitive fixtures and tournaments"
+      ]
+    },
+    {
+      "id": "holiday-camp",
+      "name": "Holiday Camps",
+      "description": "Intensive training during school breaks",
+      "duration": "3-7 days during holidays",
+      "focus": "Intensive skill development, video feedback, fitness testing, match play",
+      "deliverables": "Rapid skill improvement, performance assessment, tournament readiness",
+      "price": "Contact for pricing",
+      "features": [
+        "Daily intensive training sessions",
+        "Video analysis and feedback",
+        "Fitness and conditioning testing",
+        "Match simulations and scenarios",
+        "Progress evaluation reports"
+      ]
+    }
+  ]
+}

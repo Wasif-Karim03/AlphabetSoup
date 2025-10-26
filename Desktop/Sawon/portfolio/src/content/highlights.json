@@ -1,0 +1,45 @@
+{
+  "achievements": [
+    {
+      "title": "National Championship Victory",
+      "description": "Led teams to win 3 consecutive national championships in youth sports",
+      "year": 2023
+    },
+    {
+      "title": "International Talent Identification",
+      "description": "5 students selected for international training programs and scholarships",
+      "year": 2023
+    },
+    {
+      "title": "Academy Expansion",
+      "description": "Opened state-of-the-art indoor training facility",
+      "year": 2022
+    },
+    {
+      "title": "Partnership with International Academies",
+      "description": "Established partnerships with leading sports academies worldwide",
+      "year": 2022
+    },
+    {
+      "title": "Olympic Pathway Program",
+      "description": "Launched specialized program for Olympic-aspiring athletes",
+      "year": 2021
+    },
+    {
+      "title": "100% College Placement",
+      "description": "Achieved 100% college and university placement rate for graduates",
+      "year": 2021
+    },
+    {
+      "title": "Sports Excellence Award",
+      "description": "Received recognition from Bangladesh Sports Board for outstanding contribution",
+      "year": 2020
+    },
+    {
+      "title": "Major Tournament Hosting",
+      "description": "Successfully hosted regional youth tournament with 500+ participants",
+      "year": 2019
+    }
+  ]
+}
+

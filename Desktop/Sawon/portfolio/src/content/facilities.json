@@ -1,0 +1,40 @@
+{
+  "venues": [
+    {
+      "name": "Main Training Ground",
+      "location": "Central Campus",
+      "description": "Full-size outdoor training facility with professional-grade equipment",
+      "features": ["Natural grass surface", "Floodlights for evening training", "Changing rooms", "Equipment storage"]
+    },
+    {
+      "name": "Indoor Training Center",
+      "location": "Main Building",
+      "description": "Climate-controlled indoor facility for year-round training",
+      "features": ["Synthetic turf", "AC system", "Video analysis room", "Multiple practice areas"]
+    },
+    {
+      "name": "Fitness Gym",
+      "location": "Annex Building",
+      "description": "Dedicated strength and conditioning facility",
+      "features": ["Modern equipment", "Personalized training zones", "Recovery area", "Consultation rooms"]
+    },
+    {
+      "name": "Swimming Pool",
+      "location": "East Wing",
+      "description": "Olympic-size pool for aquatic sports and recovery",
+      "features": ["25m length", "Lane markers", "Starting blocks", "Lifeguard supervision"]
+    }
+  ],
+  "equipment": [
+    "Professional-grade balls and training equipment",
+    "Speed and agility training cones and hurdles",
+    "Resistance bands and training weights",
+    "GPS tracking devices for performance monitoring",
+    "Video analysis equipment and cameras",
+    "Recovery and rehabilitation equipment",
+    "Sports-specific gear for multiple disciplines",
+    "First aid and medical supplies"
+  ],
+  "notes": "All facilities are maintained to international standards and regularly updated with the latest training equipment. Safety protocols are strictly enforced throughout all training areas."
+}
+

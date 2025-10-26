@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "heading": "Tareq Bin Delwar",
+    "subheading": "Founder & Head Coach, Uttara Cricket Academy",
+    "description": "Developing disciplined, technically sound cricketers through structured skills programs, match simulations, and fitness-focused sessions. Building future champions in cricket."
+  },
+  "ctas": {
+    "primary": {
+      "text": "Join the Academy",
+      "href": "/contact"
+    },
+    "secondary": {
+      "text": "View Programs",
+      "href": "/coaching"
+    }
+  },
+  "highlightStats": [
+    {
+      "label": "Active Players",
+      "value": "200+",
+      "description": "Training across all age groups"
+    },
+    {
+      "label": "Years Coaching",
+      "value": "10+",
+      "description": "Of excellence in cricket development"
+    },
+    {
+      "label": "Success Rate",
+      "value": "90%",
+      "description": "Players improving their skills"
+    }
+  ]
+}

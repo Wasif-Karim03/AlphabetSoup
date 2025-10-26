@@ -1,0 +1,52 @@
+{
+  "mediaItems": [
+    {
+      "id": "1",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b9966?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b9966?w=400&h=300&fit=crop",
+      "title": "Fielding Circuit - High-catch Focus",
+      "description": "Junior group working on catching technique and fielding drills"
+    },
+    {
+      "id": "2",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=300&fit=crop",
+      "title": "Junior Group Practice - Sector 11",
+      "description": "Regular training session at our primary ground location"
+    },
+    {
+      "id": "3",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b9966?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b9966?w=400&h=300&fit=crop",
+      "title": "Power-hitting Drill - Performance Group",
+      "description": "Advanced batting technique and power-hitting development"
+    },
+    {
+      "id": "4",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=300&fit=crop",
+      "title": "Team Huddle & Goals Board",
+      "description": "Planning session and setting targets for the week ahead"
+    },
+    {
+      "id": "5",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b9966?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b9966?w=400&h=300&fit=crop",
+      "title": "Bowling Practice Session",
+      "description": "Line and length training with bowling targets"
+    },
+    {
+      "id": "6",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop",
+      "thumbnail": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=300&fit=crop",
+      "title": "Match Simulation",
+      "description": "Players applying skills in scenario-based practice matches"
+    }
+  ]
+}
